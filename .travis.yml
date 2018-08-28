@@ -1,0 +1,10 @@
+language: node_js
+deploy:
+  provider: elasticbeanstalk
+  access_key_id: $s3_access_key_id
+  secret_access_key: $s3_secret_key
+  region: us-east-1
+  app: auth-app
+  env: AuthApp-env
+  on:
+    repo: AlldredgeCraigSeniorProjectTeam/auth-app
