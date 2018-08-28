@@ -4,7 +4,7 @@
   "description": "![Project Logo](header.png) ###### Contributors: Jacob Alldredge and Daniel Craig",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AlldredgeCraigSeniorProjectTeam/auth-app#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
   }
 }
