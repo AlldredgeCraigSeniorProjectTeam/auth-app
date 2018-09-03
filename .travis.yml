@@ -6,5 +6,6 @@ deploy:
   region: us-east-1
   app: auth-app
   env: AuthApp-env
+  bucket_name: "alldredgecraigseniorproject"
   on:
     repo: AlldredgeCraigSeniorProjectTeam/auth-app
