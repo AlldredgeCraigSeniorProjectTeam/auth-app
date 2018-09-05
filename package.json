@@ -4,6 +4,7 @@
   "description": "![Project Logo](header.png) ###### Contributors: Jacob Alldredge and Daniel Craig",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "node test/test.js"
   },
   "repository": {
