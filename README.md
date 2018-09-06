@@ -3,6 +3,10 @@
 
 [![Build Status](https://travis-ci.com/AlldredgeCraigSeniorProjectTeam/auth-app.svg?branch=master)](https://travis-ci.com/AlldredgeCraigSeniorProjectTeam/auth-app)
 
+### This project is live at:
+[http://authapp-env.ycpktmtizm.us-east-1.elasticbeanstalk.com/](http://authapp-env.ycpktmtizm.us-east-1.elasticbeanstalk.com/)
+
+
 ### Summary
 This is the senior project repo of Jake Alldredge and Daniel Craig. Our objective is to make and Amazon Alexa skill that interfaces with FamilySearch to collect and upload oral histories via Amazon Echo devices.
 
